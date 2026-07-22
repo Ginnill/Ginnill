@@ -29,23 +29,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Main Technologies
 
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Ginnill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"
-    alt="Ginnill's GitHub Stats"
-  />
-</p>
-
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginnill&layout=compact&theme=radical&langs_count=8&cache_seconds=86400"
-    alt="Ginnill's Top Languages"
-  />
-</p>
+**Back-End:** PHP, Laravel, Node.js, NestJS  
+**Front-End:** React, Next.js, TypeScript, Tailwind CSS  
+**Databases:** PostgreSQL, MySQL, Redis, MongoDB, Databricks  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD  
+**AI:** Generative AI, LLMs, AI Agents and Conversational Systems
 
 ---
 
