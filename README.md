@@ -29,8 +29,23 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Ginnill's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ginnill&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginnill&layout=compact&theme=radical)
+### 📊 GitHub Stats
+
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Ginnill&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"
+    alt="Ginnill's GitHub Stats"
+  />
+</p>
+
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginnill&layout=compact&theme=radical&langs_count=8&cache_seconds=86400"
+    alt="Ginnill's Top Languages"
+  />
+</p>
 
 ---
 
